@@ -51,3 +51,4 @@ How to plan your path based on others’ insights
 Think of it as a sneak peek into the life you might want to build backed by data.
 
 ## Preview
+![Dashboard](https://github.com/Tanistoic/Data_Professionals_Survey_Analysis/blob/main/Data_Professionals_Survey_Dashboard.png)
